@@ -4,10 +4,8 @@
     "Settings": true,
     "Frontend": true,
     "Roles": true,
-    "Backups": false,
-    "Articles": true,
-    "Pages": true,
-    "Countries": true,
     "Installer": true,
-    "Deploy": true
+    "Deploy": true,
+    "Departments": true,
+    "Tasks": true
 }
