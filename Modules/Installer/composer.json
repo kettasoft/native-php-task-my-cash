@@ -1,0 +1,23 @@
+{
+    "name": "kettasoft/installer",
+    "description": "",
+    "authors": [
+        {
+            "name": "Abdalrhman Emad Saad",
+            "email": "kettasoft@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Installer\\": ""
+        }
+    }
+}
